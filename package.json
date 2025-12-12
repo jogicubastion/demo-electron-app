@@ -4,6 +4,10 @@
   "version": "1.0.0",
   "type": "module",
   "main": "electron/main.cjs",
+  "author": {
+    "name": "Jogender Singh",
+    "email": "jogender.singh@cubastion.com"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
