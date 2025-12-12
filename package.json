@@ -1,5 +1,5 @@
 {
-  "name": "electron-timer-app",
+  "name": "xam-hub-app",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -19,8 +19,8 @@
     "electron:build:linux": "vite build && electron-builder --linux"
   },
   "build": {
-    "appId": "com.electron.timer",
-    "productName": "Electron Timer",
+    "appId": "com.cubastion.xamhub",
+    "productName": "xam-hub-app",
     "directories": {
       "output": "release"
     },
